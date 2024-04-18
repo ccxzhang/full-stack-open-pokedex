@@ -23,7 +23,7 @@ jobs:
     steps:
       - name: Directory Content
         run: |
-          ls - h
+          ls -l
          
     
 
